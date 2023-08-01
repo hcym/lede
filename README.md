@@ -1,4 +1,4 @@
-# 欢迎来到 Lean 的源码仓库
+# 欢迎来到 Lean 的源码 仓库
 
 如何编译自己需要的 LEDE 固件 [How to build your LEDE firmware](./README_EN.md)
 
